@@ -1,4 +1,4 @@
-Hello everyone, I am a C++ developer. I am working and actively studying Qt (also for Android on QML), Wasm
+Hello everyone, I am a C++ developer. I am working and actively studying Qt (also for Android in QML), Wasm, and just various libraries for standard C++
 Little experience in C#, python.
 1st year student in software engineering.
 I am ready to cooperate. 
