@@ -21,6 +21,12 @@ I also have foundational skills in HTML&CSS.
 
 <p>Feel free to explore my repositories to see my work.</p>
 
+*   **[MathWorker](https://github.com/Igorantivirus/MathWorker)** - A C++ library for parsing and evaluating mathematical expressions with fully customizable functions and operators.
+*   **[ABSchat](https://github.com/Igorantivirus/ABSchat)** - A project that bridges a Telegram bot with a Minecraft server, relaying messages from users to the in-game chat.
+*   **[Simple-Manip-Animation](https://github.com/Igorantivirus/Simple-Manip-Animation)** - A Python script that generates video animations from LaTeX code provided in a text file.
+*   **[TelegrammBotCpp](https://github.com/Igorantivirus/TelegrammBotCpp)** - The C++ source code for a "Fortune Teller" (Гадалка) bot on Telegram.
+*   **[Big-numbers](https://github.com/Igorantivirus/Big-numbers)** - A C++ library for arbitrary-precision arithmetic (handling very large numbers).
+
 <h2>📫 Get in Touch</h2>
 
 <p>You can reach me on Telegram: <a href="https://t.me/igorantivirus">@igorantivirus</a></p>
