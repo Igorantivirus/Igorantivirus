@@ -22,6 +22,14 @@
 
 Можете посмотреть на git.
 
+Примеры:
+
+* **[MathWorker](https://github.com/Igorantivirus/MathWorker)** - Библиотека для обработки математических выражений с полностью настраиваемой сигнатурой.
+* **[ABSchat](https://github.com/Igorantivirus/ABSchat)** - Проект, объединяющий телеграм бота и работу с сервером для передачи сообщений от пользователя в майнкрафт чат
+* **[Simple-Manip-Animation](https://github.com/Igorantivirus/Simple-Manip-Animation)** - python проект для создания видео анимации LaTex кода. Код обрабатывается из текстового файла
+* **[TelegrammBotCpp](https://github.com/Igorantivirus/TelegrammBotCpp)** - Код бота "Гадалка" в телеграм.
+* **[Big-numbers](https://github.com/Igorantivirus/Big-numbers)** - Библиотека больших чисел С++
+
 <h2>Связь</h2>
 
 Пишите на ТГ - [Telegram](https://t.me/igorantivirus)
