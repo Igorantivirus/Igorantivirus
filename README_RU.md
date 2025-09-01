@@ -28,7 +28,7 @@
 * **C++**    **[Big-numbers](https://github.com/Igorantivirus/Big-numbers)** - Библиотека больших чисел
 * **C++**    **[TelegrammBotCpp](https://github.com/Igorantivirus/TelegrammBotCpp)** - Код бота "Гадалка" в телеграм.
 * **С++**    **[SynchMineChat-MainServer](https://github.com/Igorantivirus/SynchMineChat-MainServer)** + **[SynchMineChat-GameServer](https://github.com/Igorantivirus/SynchMineChat-GameServer)** - проект объединения майнкрафт чата и чата в телеграмм боте.
-* **C++**    **[Mine-Mods-Versions-With-Interface](https://github.com/Igorantivirus/Mine-Mods-Versions-With-Interface)** - Программа для изменения версий майнкрафта
+* **C++**    **[Mine-Mods-Versions-With-Interface](https://github.com/Igorantivirus/Mine-Mods-Versions-With-Interface)** - Программа для изменения версий майнкрафт модов
 * **C++**    **[Crossplatform-Example-SDL3-RmlUi-project](https://github.com/Igorantivirus/Crossplatform-Example-SDL3-RmlUi-project)** - пример кроссплатформенного проекта С++ SDL с мини движком работы со страницами через RmlUi
 * **python** **[Simple-Manip-Animation](https://github.com/Igorantivirus/Simple-Manip-Animation)** - Проект для создания видео анимации LaTex кода. Код обрабатывается из текстового файла
 

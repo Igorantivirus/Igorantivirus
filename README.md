@@ -25,7 +25,7 @@ I also have foundational skills in HTML&CSS.
 * **C++**    **[Big-numbers](https://github.com/Igorantivirus/Big-numbers)** - Library of large numbers
 * **C++**    **[TelegrammBotCpp](https://github.com/Igorantivirus/TelegrammBotCpp )** - Code of the "Fortune Teller" bot in Telegram.
 * **C++**    **[SynchMineChat-MainServer](https://github.com/Igorantivirus/SynchMineChat-MainServer )** + **[SynchMineChat-GameServer](https://github.com/Igorantivirus/SynchMineChat-GameServer)** - a project to combine minecraft chat and telegram bot chat.
-* **C++**    **[Mine-Mods-Versions-With-Interface](https://github.com/Igorantivirus/Mine-Mods-Versions-With-Interface)** - A program for changing versions of Minecraft
+* **C++**    **[Mine-Mods-Versions-With-Interface](https://github.com/Igorantivirus/Mine-Mods-Versions-With-Interface)** - A program for changing versions of mods for Minecraft 
 * **C++**    **[Crossplatform-Example-SDL3-RmlUi-project](https://github.com/Igorantivirus/Crossplatform-Example-SDL3-RmlUi-project)** - an example of a cross-platform C++ SDL project with a mini page engine via RmlUi
 * **python** **[Simple-Manip-Animation](https://github.com/Igorantivirus/Simple-Manip-Animation)** Is a project for creating video animations of LaTex code. The code is processed from a text file
 
