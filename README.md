@@ -8,11 +8,11 @@
 
 <p>Here's a summary of my experience with different technologies:</p>
 
-| Language   | Started     | Experience                                              | Technologies / Tools                                                                                                                  |
-| ---------- | ----------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Language   | Started     | Experience                                              | Technologies / Tools                                                                                                                |
+| ---------- | ----------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **C++**    | Spring 2023 | My primary language for personal and academic projects. | QT (Desktop + QML for Android), WASM, SFML, TgBot, Socket.IO client, libxls, pugixml, nlohmann/json, SDL3(Desktop + Android), RmlUi |
-| **Python** | Fall 2022   | Experience in writing scripts and small applications.   | I've used it, but I don't have much experience: tkinter, manim, pytube, pytubefix                                                      |
-| **C#**     | Summer 2024 | Basic experience, currently learning.                   | Standard Library                                                                                                                      |
+| **Python** | Fall 2022   | Experience in writing scripts and small applications.   | I've used it, but I don't have much experience: tkinter, manim, pytube, pytubefix                                                   |
+| **C#**     | Summer 2024 | Basic experience, currently learning.                   | Standard Library                                                                                                                    |
 
 <br>
 I also have foundational skills in HTML&CSS.
@@ -21,11 +21,13 @@ I also have foundational skills in HTML&CSS.
 
 <p>Feel free to explore my repositories to see my work.</p>
 
-*   **[MathWorker](https://github.com/Igorantivirus/MathWorker)** - A C++ library for parsing and evaluating mathematical expressions with fully customizable functions and operators.
-*   **[ABSchat](https://github.com/Igorantivirus/ABSchat)** - A project that bridges a Telegram bot with a Minecraft server, relaying messages from users to the in-game chat.
-*   **[Simple-Manip-Animation](https://github.com/Igorantivirus/Simple-Manip-Animation)** - A Python script that generates video animations from LaTeX code provided in a text file.
-*   **[TelegrammBotCpp](https://github.com/Igorantivirus/TelegrammBotCpp)** - The C++ source code for a "Fortune Teller" (Гадалка) bot on Telegram.
-*   **[Big-numbers](https://github.com/Igorantivirus/Big-numbers)** - A C++ library for arbitrary-precision arithmetic (handling very large numbers).
+* **C++**    **[MathWorker](https://github.com/Igorantivirus/MathWorker )** Is a library for processing mathematical expressions with a fully customizable signature.
+* **C++**    **[Big-numbers](https://github.com/Igorantivirus/Big-numbers)** - Library of large numbers
+* **C++**    **[TelegrammBotCpp](https://github.com/Igorantivirus/TelegrammBotCpp )** - Code of the "Fortune Teller" bot in Telegram.
+* **C++**    **[SynchMineChat-MainServer](https://github.com/Igorantivirus/SynchMineChat-MainServer )** + **[SynchMineChat-GameServer](https://github.com/Igorantivirus/SynchMineChat-GameServer)** - a project to combine minecraft chat and telegram bot chat.
+* **C++**    **[Mine-Mods-Versions-With-Interface](https://github.com/Igorantivirus/Mine-Mods-Versions-With-Interface)** - A program for changing versions of Minecraft
+* **C++**    **[Crossplatform-Example-SDL3-RmlUi-project](https://github.com/Igorantivirus/Crossplatform-Example-SDL3-RmlUi-project)** - an example of a cross-platform C++ SDL project with a mini page engine via RmlUi
+* **python** **[Simple-Manip-Animation](https://github.com/Igorantivirus/Simple-Manip-Animation)** Is a project for creating video animations of LaTex code. The code is processed from a text file
 
 <h2>📫 Get in Touch</h2>
 
