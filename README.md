@@ -2,7 +2,7 @@
 
 <h1>Hi there, I'm Igorantivirus 👋</h1>
 
-<p>I'm an enthusiastic C++ developer and a first-year student majoring in Software Engineering. My coding journey began in 2022. The main language is Russian.</p>
+<p>I'm an enthusiastic C++ developer and a second-year student majoring in Software Engineering. My coding journey began in 2022. The main language is Russian.</p>
 
 <h2>🛠️ Skills & Technologies</h2>
 
